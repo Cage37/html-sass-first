@@ -1,0 +1,21 @@
+// Variabile 
+
+$first_color: purple;
+$second_color: rgb(131, 206, 131);
+
+h1{
+    color: $first_color;
+}
+
+span{
+    color: $second_color;
+}
+
+p{
+    color: $first_color;
+}
+
+button{
+    background-color: $second_color;
+}
+
